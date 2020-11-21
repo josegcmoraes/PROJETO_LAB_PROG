@@ -1,0 +1,33 @@
+
+	.clientes {
+
+
+		text-align: center;
+		background-image: url(images/fundo-login.jpg);
+		background-position: center;
+
+	}
+
+	.fornecedor {
+		text-align: center;
+		background-color: red;
+		background-position: center;
+	}
+
+
+
+	.login-box {
+
+		background: rgba(0, 0, 0, 0.5);
+		color: white;
+
+
+	}
+
+
+	.login-box a {
+		font-size: 55px;
+		color: white;
+		text-decoration: none;
+
+	}

@@ -1,0 +1,83 @@
+
+	@font-face {
+		font-family: goca-font;
+		src: url(goca-font.ttf);
+	}
+	nav{
+		
+		
+	}
+
+	.topo .logotipo {
+
+		border: 1px solid black;
+		position: absolute;
+		border-radius: 50%;
+		top:50;
+		left: 50;
+
+	}
+
+	body {
+		background-image: url(images/fundo-site.jpg);
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+	}
+
+
+
+
+	.topo {
+		display: inline-flex;
+		padding: 0 30 0 30;
+
+
+	}
+
+	nav{
+		margin: 1% 0 0 10%
+
+	}
+
+	nav ul{
+		list-style: none;
+		padding: 0 3% 0 3%;
+
+	}
+
+	nav ul li{
+		margin: 7% 0 0 0
+	}
+
+	.topo .links {
+		font-size: 25pt;
+		font-family: goca-font;
+		text-decoration: none;
+		color: black;
+		border-bottom: 1px solid darkcyan;
+		background-color: white;
+	
+
+
+
+	}
+
+	img {
+		height: 150px;
+		width: 500px;
+
+	}
+
+	#login {
+		right: 30%;
+		color: black;
+		border: 1px solid darkcyan;
+	}
+
+
+
+
+
+
+
+

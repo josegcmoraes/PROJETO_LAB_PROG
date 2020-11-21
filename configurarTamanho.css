@@ -1,0 +1,39 @@
+
+
+.produto{
+	position: relative;
+	border: 2px solid darkcyan;
+	float: left;
+}
+
+.textoNome{
+	
+	color: black;
+	font-size:80px;
+	font-weight:bold;
+}
+.tamanho img{
+	max-width: 200px;
+	max-height: 200px;
+	float: left;
+	border: transparent thin solid;
+	padding: 5px;
+	margin: 0px 10px 10px 0;
+}
+
+.textoDescricao{
+	padding-left: 10px;
+}
+.textoValor{
+	color:red;
+	text-size 40px;
+}
+
+
+
+
+
+
+
+
+

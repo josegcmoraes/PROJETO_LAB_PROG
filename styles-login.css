@@ -1,0 +1,98 @@
+	img#login {
+		width: 100%;
+	}
+
+
+	body {
+
+		width: 100%;
+
+	}
+
+	section{
+
+		margin: auto;
+		text-align: center;
+		min-width: 500px;
+		width: 100%;
+		height: 100%;
+		background-image: url(images/fundo-login.jpg);
+		background-position: center;
+
+	}
+
+	.login-box {
+		margin: auto;
+		width: 320px;
+		height: 420px;
+		background: rgba(0, 0, 0, 0.5);
+		color: white;
+		position: relative;
+		top: 20%;
+		border: 2px solid white;
+		padding-bottom: 2%;
+
+	}
+
+	h1 {
+		margin: 0 40 0 0;
+		padding: 50 0 0 140;
+
+		font-size: 35px;
+	}
+
+	.login-box p {
+		font-weight: bold;
+		font-size: 20px;
+		margin: 30 0 10 0;
+		text-align: center;
+	}
+
+	.login-box input {
+		width: 80%;
+		margin-bottom: 10;
+	}
+
+	.logo {
+		border: 1px solid black;
+		height: 70;
+		position: absolute;
+		border-radius: 50%;
+		top: 40;
+		left: 25;
+	}
+
+	.login-box input[type="text"], input[type="password"] {
+		border:none;
+		border-bottom: 1px solid white;
+		background: transparent;
+		outline: none;
+		color: white;
+		font-size: 22px;
+
+	}
+
+	.login-box input[type="submit"] {
+		margin-top: 35;
+		padding: 10;
+		font-size: 22px;
+		background: rgba(0, 0, 0, 0.5);
+		color: white;
+		border-color: white;
+	}
+
+	.cadastro  {
+		text-decoration: none;
+		margin: 0 55% 0 0;
+		color: white;
+		font-size: 22px;
+		
+
+	}
+
+	.cadastro:hover {
+		color: green;
+
+
+	}
+

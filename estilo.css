@@ -1,0 +1,49 @@
+.menuSuperior {
+	padding: 5;
+	background-color: grey;
+	border:1px solid black;
+}
+
+.menuSuperior ul li {
+	display: inline;
+	
+	float: right;
+	padding: 5;
+	margin-right: 9%;
+	margin-top: 4%;
+	font-size: 25px;
+	color: black;
+
+}
+
+#logo {
+	width: 150;
+	border: 1px solid black;
+
+}
+
+#loginCadastro {
+	float: right;
+	text-decoration: none;
+	margin-right: 1%;
+	padding: 3px;
+	color: white;
+	border: 1px solid white;
+	font-size: 20px;
+	
+}
+
+.logado {
+	margin-left: 85%;
+	color: white;
+	font-size: 18px;
+	
+	
+}
+
+a {
+	color: black;
+	list-style-type: none;
+	text-decoration: none;
+
+}
