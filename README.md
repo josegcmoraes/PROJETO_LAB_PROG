@@ -2,7 +2,7 @@
 Projeto Web desenvolvido durante a disciplina de Laboratório de Programação. O site criado com a linguagem php possui conexão com banco de dados
 
 ### Linguagens utilizadas 
-* Php, javascript
+* Php, Javascript
 ### Para executar o código deve utilizar 
 * um servidor php, usamos o 000webhost ( possui suas limitações )
 * fazer o upload dos códigos e das imagens
